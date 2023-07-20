@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    width: 35%;
+    background-color: black;
+}
+table th td{
+    border: 1px solid black;
+}
+th td{
+    padding: 10px;
+}
+th{
+    color: white;
+}
+td{
+    color: white;
+}
+tr:hover{background-color: #333232;}
+img{
+    border-radius: 20px;
+    border: 2px solid orange;
+}
+body{
+    background-image: url(geni.jpg);
+    background-size: cover;
+}
